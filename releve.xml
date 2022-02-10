@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Releve rib="011112222333344445555666">
+    <dateReleve>01-01-2021</dateReleve>
+    <solde>14500.0</solde>
+    <operations dateDebut="01-01-2021" dateFin="2021-01-30">
+        <operation type="CREDIT" date="2021-01-01" montant="9000.0" description="Vers Espèce"/>
+        <operation type="DEBIT" date="2021-01-01" montant="7000.0" description="CHEQUE"/>
+    </operations>
+</Releve>
